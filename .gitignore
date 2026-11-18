@@ -1,0 +1,40 @@
+
+# OCaml generated files
+_build/
+*.cmi
+*.cmo
+*.cmx
+*.cmxa
+*.cma
+*.annot
+*.native
+*.byte
+
+# Compiler output
+*.o
+*.a
+*.s
+*.exe
+a.out
+output/
+*.out
+*.log
+
+# Local submission files
+*-submit.zip
+team.txt
+
+# macOS
+.DS_Store
+._*
+__MACOSX/
+
+# Editors
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Local OCaml environment
+.opam/
